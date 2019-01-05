@@ -251,5 +251,10 @@ public class WindowController {
             System.out.println(greska.getMessage());
         }
     }
+    public void doSaveAs(ActionEvent actionEvent) {
+        return;
+    }
+
+
 
 }
